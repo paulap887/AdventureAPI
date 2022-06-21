@@ -1,6 +1,0 @@
-
-For migration,
-
-We just need to run the following command 
-
-Update-Database -context AdventureDbContext
