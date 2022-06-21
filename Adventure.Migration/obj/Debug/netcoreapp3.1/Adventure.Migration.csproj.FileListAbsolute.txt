@@ -1,0 +1,17 @@
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Migration\bin\Debug\netcoreapp3.1\Adventure.Migration.deps.json
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Migration\bin\Debug\netcoreapp3.1\Adventure.Migration.dll
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Migration\bin\Debug\netcoreapp3.1\Adventure.Migration.pdb
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Migration\bin\Debug\netcoreapp3.1\Adventure.Core.dll
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Migration\bin\Debug\netcoreapp3.1\Adventure.Data.dll
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Migration\bin\Debug\netcoreapp3.1\Adventure.Services.dll
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Migration\bin\Debug\netcoreapp3.1\Adventure.Core.pdb
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Migration\bin\Debug\netcoreapp3.1\Adventure.Data.pdb
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Migration\bin\Debug\netcoreapp3.1\Adventure.Services.pdb
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Migration\obj\Debug\netcoreapp3.1\Adventure.Migration.csproj.AssemblyReference.cache
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Migration\obj\Debug\netcoreapp3.1\Adventure.Migration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Migration\obj\Debug\netcoreapp3.1\Adventure.Migration.AssemblyInfoInputs.cache
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Migration\obj\Debug\netcoreapp3.1\Adventure.Migration.AssemblyInfo.cs
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Migration\obj\Debug\netcoreapp3.1\Adventure.Migration.csproj.CoreCompileInputs.cache
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Migration\obj\Debug\netcoreapp3.1\Adventure.Migration.csproj.CopyComplete
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Migration\obj\Debug\netcoreapp3.1\Adventure.Migration.dll
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Migration\obj\Debug\netcoreapp3.1\Adventure.Migration.pdb

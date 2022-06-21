@@ -1,0 +1,10 @@
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Core\bin\Debug\netcoreapp3.1\Adventure.Core.deps.json
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Core\bin\Debug\netcoreapp3.1\Adventure.Core.dll
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Core\bin\Debug\netcoreapp3.1\Adventure.Core.pdb
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Core\obj\Debug\netcoreapp3.1\Adventure.Core.csproj.AssemblyReference.cache
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Core\obj\Debug\netcoreapp3.1\Adventure.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Core\obj\Debug\netcoreapp3.1\Adventure.Core.AssemblyInfoInputs.cache
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Core\obj\Debug\netcoreapp3.1\Adventure.Core.AssemblyInfo.cs
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Core\obj\Debug\netcoreapp3.1\Adventure.Core.csproj.CoreCompileInputs.cache
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Core\obj\Debug\netcoreapp3.1\Adventure.Core.dll
+C:\Users\PTHOMAS\Downloads\Practice\Adventure.Api\Adventure.Core\obj\Debug\netcoreapp3.1\Adventure.Core.pdb

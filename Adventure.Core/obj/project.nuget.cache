@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tm0m0MuL+BhxPub0fICaMOYsgC6urittnZTp5u4oG8xr8EoMb301Fn3MAGUCHxDRUPp8PHmMib23k/2t7J+x8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PTHOMAS\\Downloads\\Practice\\Adventure.Api\\Adventure.Core\\Adventure.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PTHOMAS\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.6\\microsoft.entityframeworkcore.abstractions.5.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
